@@ -1,1 +1,1 @@
-# Messenger-application
+Messenger application like whatsapp where users create groups, send messages in the group & add/remove users from the group. For simplicity, let's assume only one person can create a group as well as add/remove users from the group.
